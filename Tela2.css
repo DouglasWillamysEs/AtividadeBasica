@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    font-size: x-large;
+}
+
+tr{
+    text-align: center;
+}
+
+h1{
+    font-style: italic;
+}
+
+table{
+    background-color: cyan;
+}
+
+td{
+    font-style: oblique;
+    font-weight: bold;
+}
